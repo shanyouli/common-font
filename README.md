@@ -1,6 +1,12 @@
-Mac OS X Chinese Fonts
-======================
+Common Font
+===========
 
-This is a collection of Mac OS X Chinese fonts.
+Collect some common fonts
 
+Adobe Chinese fonts
+-------------------
 
+-	Adobe Fangsong Std Regular
+-	Adobe Song Std light
+-	Adobe Heiti Std Regular
+-	Adobe Kaiti Std Regular
