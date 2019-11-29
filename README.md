@@ -15,9 +15,9 @@ Adobe Chinese fonts
 
 INPUT fonts-1.2
 ------------
-> 这是一个只用的 input 字体包
-> 他的官网是: https://input.fontbureau.com/
-> 如果有侵权行为请联系: shanyouli6@gmail.com
+> 这是一个自用的 input 字体包  
+> 他的官网是: https://input.fontbureau.com/  
+> 如果有侵权行为请联系: shanyouli6@gmail.com   
 - Input Mono
 - Input Sans
 - Input Serif
