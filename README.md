@@ -11,6 +11,7 @@ Adobe Chinese fonts
 -	Adobe Song Std light
 -	Adobe Heiti Std Regular
 -	Adobe Kaiti Std Regular
+- 　Adobe Ming Std Std Regular
 
 INPUT fonts-1.2
 ------------
